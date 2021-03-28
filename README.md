@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Peter-Dodge
+- 👀 I’m interested in Programming and action sports
+- 🌱 I’m currently learning LESS
+- 📫 You can reach me throught e-mail
